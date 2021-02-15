@@ -49,7 +49,7 @@ class dustbin
 			//rect(0,0,this.wallThickness, this.dustbinHeight);
 			pop()
 
-			/*push()
+			push()
 			translate(posBottom.x, posBottom.y+10);
 			rectMode(CENTER)
 			//strokeWeight(4);
@@ -58,7 +58,7 @@ class dustbin
 			imageMode(CENTER);
 			image(this.image, 0,-this.dustbinHeight/2,this.dustbinWidth, this.dustbinHeight)
 			//rect(0,0,this.dustbinWidth, this.wallThickness);
-			pop()*/
+			pop()
 			
 	}
 
